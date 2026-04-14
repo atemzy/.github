@@ -15,6 +15,7 @@ I'm currently a student in Computer Science.<br>I'm interested in Physics, a lit
 ![](https://github-readme-stats.vercel.app/api?username=atemzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=atemzy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atemzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![DevXP Card](https://reposignal.ai/api/badge/atemzy?type=card)](https://reposignal.ai/u/atemzy)
 
 ## 🏆 GitHub Trophies
 
