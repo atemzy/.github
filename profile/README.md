@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm currently a student in Computer Science.<br>I'm interested in Physics, a little bit of Maths, and Psychology.
+I'm currently a student in Computer Science.<br>I'm interested in Physics, a little bit of Maths, and Philosophy.
 
 ## 🌐 Socials:
 
